@@ -1,5 +1,3 @@
-"""Platform integrations package."""
-
 from app.platforms.base import BasePlatform
 from app.platforms.bluesky import BlueskyPlatform
 from app.platforms.telegram import TelegramPlatform
